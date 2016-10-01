@@ -1,0 +1,10 @@
+Algorithms_Design_and_Analysis_-Harsh_Bhasin
+Principles_of_Electromagnetics_-Matthew_N.O._Sadiku
+Object_Oriented_Programming_with_C++_-Reema_Thareja
+Introduction_to_C_Programming_-Reema_Thareja
+Technical_Communication:_Principles_and_Practice_-Meenakshi_Raman
+Electrical_Properties_of_Materials_-Laszlo
+Finite_Element_Method_-R._Dhanraj
+Engineering_Drawing_-N.S_Parthasarathy
+Engineering_Physics_-D.K._Bhattacharya
+Engineering_Mathematics_-Srimanta_Pal

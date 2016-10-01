@@ -1,0 +1,7 @@
+1111,3333,Algorithms_Design_and_Analysis_-Harsh_Bhasin,mahima,
+33,33,Engineering_Mathematics_-Srimanta_Pal,anamika,
+33,33,Principles_of_Electromagnetics_-Matthew_N.O._Sadiku,anamika,
+33,333,Finite_Element_Method_-R._Dhanraj,anamika,
+77,77,Electrical_Properties_of_Materials_-Laszlo,anamika,
+anamika,anamika,anamika
+anamika,anamika,
